@@ -1,1 +1,3 @@
 # Estudo_Python
+
+Estudando os detalhes de Python...
